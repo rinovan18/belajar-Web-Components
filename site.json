@@ -163,7 +163,17 @@
         "updated": 1724377904,
         "published": true,
         "hideInMenu": false,
-        "readtime": 1
+        "readtime": 1,
+        "files": [
+          {
+            "path": "[object Object]headshot186726.90000003576.jpg",
+            "fullUrl": "//home/runner/belajar-Web-Components/files/headshot186726.90000003576.jpg",
+            "url": "files/headshot186726.90000003576.jpg",
+            "type": "image/jpeg",
+            "name": "headshot186726.90000003576.jpg",
+            "size": 149647
+          }
+        ]
       }
     },
     {
