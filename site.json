@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1698074988,
-      "updated": 1724404721,
+      "updated": 1724405220,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -34,9 +34,9 @@
       "domain": null
     },
     "theme": {
-      "element": "terrible-productionz-themes",
-      "path": "@haxtheweb/terrible-themes/lib/terrible-productionz-themes.js",
-      "name": "Terrible productionz site",
+      "element": "terrible-resume-themes",
+      "path": "@haxtheweb/terrible-themes/lib/terrible-resume-themes.js",
+      "name": "Terrible resume",
       "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
       "variables": {
         "image": "",
