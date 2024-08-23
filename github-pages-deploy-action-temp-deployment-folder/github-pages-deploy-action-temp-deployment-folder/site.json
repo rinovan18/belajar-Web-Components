@@ -127,53 +127,38 @@
     },
     {
       "id": "item-52e57103-e309-4136-8c2e-fbb29983a013",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-52e57103-e309-4136-8c2e-fbb29983a013/index.html",
       "slug": "lesson-1/introduction",
       "order": 0,
       "parent": "item-72a5228c-d0bd-4b96-a124-f64e18dea25a",
-      "title": "Perkenalan",
-      "description": "\n",
+      "title": "Introduction",
+      "description": "",
       "metadata": {
         "locked": false,
         "created": 1723216821,
-        "images": {},
-        "videos": {},
-        "updated": 1724377711,
+        "images": [],
+        "videos": [],
+        "updated": 1724376573,
         "published": true,
-        "status": "",
-        "hideInMenu": false,
-        "readtime": 1
+        "status": ""
       }
     },
     {
       "id": "item-c8e6296c-bbca-47f5-ba4e-96f529fd8411",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-c8e6296c-bbca-47f5-ba4e-96f529fd8411/index.html",
       "slug": "lesson-1/copy-of-introduction",
       "order": 1,
       "parent": "item-72a5228c-d0bd-4b96-a124-f64e18dea25a",
       "title": "Copy of Introduction",
-      "description": "\n\n",
+      "description": "",
       "metadata": {
         "locked": false,
         "created": 1724376573,
-        "images": {},
-        "videos": {},
-        "updated": 1724377957,
-        "published": true,
-        "hideInMenu": false,
-        "readtime": 1,
-        "files": [
-          {
-            "path": "[object Object]headshot186726.90000003576.jpg",
-            "fullUrl": "//home/runner/belajar-Web-Components/files/headshot186726.90000003576.jpg",
-            "url": "files/headshot186726.90000003576.jpg",
-            "type": "image/jpeg",
-            "name": "headshot186726.90000003576.jpg",
-            "size": 149647
-          }
-        ]
+        "images": [],
+        "videos": [],
+        "updated": 1724376573
       }
     },
     {
