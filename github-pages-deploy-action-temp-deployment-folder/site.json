@@ -5,7 +5,12 @@
   "description": "own course",
   "license": "by-sa",
   "metadata": {
-    "author": {},
+    "author": {
+      "image": "",
+      "name": null,
+      "email": null,
+      "socialLink": null
+    },
     "site": {
       "name": "haxtheweb",
       "logo": "assets/banner.jpg",
@@ -18,20 +23,21 @@
         "gaID": null
       },
       "created": 1698074988,
-      "updated": 1724376573,
+      "updated": 1724404593,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
       },
       "version": "9.0.5",
       "static": {},
-      "tags": "website, haxtheweb, hax"
+      "tags": "website, haxtheweb, hax",
+      "domain": null
     },
     "theme": {
-      "element": "clean-one",
-      "path": "@lrnwebcomponents/clean-one/clean-one.js",
-      "name": "Clean course theme",
-      "thumbnail": "build/es6/node_modules/@lrnwebcomponents/app-hax/lib/assets/images/BlueStyle.svg",
+      "element": "polaris-invent-theme",
+      "path": "@haxtheweb/polaris-theme/lib/polaris-invent-theme.js",
+      "name": "Polaris - Invent",
+      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
       "variables": {
         "image": "",
         "imageAlt": "",
@@ -127,38 +133,53 @@
     },
     {
       "id": "item-52e57103-e309-4136-8c2e-fbb29983a013",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-52e57103-e309-4136-8c2e-fbb29983a013/index.html",
       "slug": "lesson-1/introduction",
       "order": 0,
       "parent": "item-72a5228c-d0bd-4b96-a124-f64e18dea25a",
-      "title": "Introduction",
-      "description": "",
+      "title": "Perkenalan",
+      "description": "\n",
       "metadata": {
         "locked": false,
         "created": 1723216821,
-        "images": [],
-        "videos": [],
-        "updated": 1724376573,
+        "images": {},
+        "videos": {},
+        "updated": 1724377711,
         "published": true,
-        "status": ""
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {
       "id": "item-c8e6296c-bbca-47f5-ba4e-96f529fd8411",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-c8e6296c-bbca-47f5-ba4e-96f529fd8411/index.html",
       "slug": "lesson-1/copy-of-introduction",
       "order": 1,
       "parent": "item-72a5228c-d0bd-4b96-a124-f64e18dea25a",
       "title": "Copy of Introduction",
-      "description": "",
+      "description": "\n\n",
       "metadata": {
         "locked": false,
         "created": 1724376573,
-        "images": [],
-        "videos": [],
-        "updated": 1724376573
+        "images": {},
+        "videos": {},
+        "updated": 1724377957,
+        "published": true,
+        "hideInMenu": false,
+        "readtime": 1,
+        "files": [
+          {
+            "path": "[object Object]headshot186726.90000003576.jpg",
+            "fullUrl": "//home/runner/belajar-Web-Components/files/headshot186726.90000003576.jpg",
+            "url": "files/headshot186726.90000003576.jpg",
+            "type": "image/jpeg",
+            "name": "headshot186726.90000003576.jpg",
+            "size": 149647
+          }
+        ]
       }
     },
     {
