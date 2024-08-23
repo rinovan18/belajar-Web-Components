@@ -148,19 +148,22 @@
     },
     {
       "id": "item-c8e6296c-bbca-47f5-ba4e-96f529fd8411",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-c8e6296c-bbca-47f5-ba4e-96f529fd8411/index.html",
       "slug": "lesson-1/copy-of-introduction",
       "order": 1,
       "parent": "item-72a5228c-d0bd-4b96-a124-f64e18dea25a",
-      "title": "Copy of Introduction",
-      "description": "",
+      "title": "Materi Lanjutan",
+      "description": "\n",
       "metadata": {
         "locked": false,
         "created": 1724376573,
-        "images": [],
-        "videos": [],
-        "updated": 1724376573
+        "images": {},
+        "videos": {},
+        "updated": 1724377904,
+        "published": true,
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {
