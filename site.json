@@ -18,7 +18,7 @@
         "gaID": null
       },
       "created": 1698074988,
-      "updated": 1723216821,
+      "updated": 1724376573,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -63,7 +63,7 @@
       "description": "Welcome to your new HAX site! Click edit on the top bar to get started\nThis is a boilerplate so that you can add and make new things from the npx @haxtheweb/haxcms-nodejscommand\nWhat can I do?\nWe've ",
       "metadata": {
         "created": 1689962391,
-        "updated": 1724376514,
+        "updated": 1724376573,
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -71,7 +71,8 @@
         "videos": {},
         "images": {},
         "status": "",
-        "pageType": "objectives"
+        "pageType": "objectives",
+        "icon": "courseicons:learning-objectives"
       }
     },
     {
@@ -79,13 +80,13 @@
       "indent": 0,
       "location": "pages/item-5488fd2d-2976-4bf3-9925-ebae7a26b8ef/index.html",
       "slug": "page",
-      "order": 1,
+      "order": 2,
       "parent": null,
       "title": "Page",
       "description": "\n\n",
       "metadata": {
         "created": 1723216766,
-        "updated": 1723217275,
+        "updated": 1724376573,
         "images": {},
         "videos": {},
         "published": true,
@@ -110,7 +111,7 @@
       "indent": 0,
       "location": "pages/item-72a5228c-d0bd-4b96-a124-f64e18dea25a/index.html",
       "slug": "lesson-1",
-      "order": 1,
+      "order": 3,
       "parent": null,
       "title": "Lesson 1",
       "description": "",
@@ -119,7 +120,9 @@
         "created": 1723216821,
         "images": [],
         "videos": [],
-        "updated": 1723216821
+        "updated": 1724376573,
+        "published": true,
+        "status": ""
       }
     },
     {
@@ -136,7 +139,43 @@
         "created": 1723216821,
         "images": [],
         "videos": [],
-        "updated": 1723216821
+        "updated": 1724376573,
+        "published": true,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-c8e6296c-bbca-47f5-ba4e-96f529fd8411",
+      "indent": 1,
+      "location": "pages/item-c8e6296c-bbca-47f5-ba4e-96f529fd8411/index.html",
+      "slug": "lesson-1/copy-of-introduction",
+      "order": 1,
+      "parent": "item-72a5228c-d0bd-4b96-a124-f64e18dea25a",
+      "title": "Copy of Introduction",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1724376573,
+        "images": [],
+        "videos": [],
+        "updated": 1724376573
+      }
+    },
+    {
+      "id": "item-57b1cbbc-4d21-4fad-b906-a6fcf20727c0",
+      "indent": 0,
+      "location": "pages/item-57b1cbbc-4d21-4fad-b906-a6fcf20727c0/index.html",
+      "slug": "copy-of-selamat-datang-di-web-belajar",
+      "order": 1,
+      "parent": null,
+      "title": "Copy of Selamat Datang di Web Belajar",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1724376573,
+        "images": [],
+        "videos": [],
+        "updated": 1724376573
       }
     }
   ]
