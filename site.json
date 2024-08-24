@@ -119,16 +119,18 @@
       "slug": "lesson-1",
       "order": 0,
       "parent": null,
-      "title": "Lesson 1",
-      "description": "",
+      "title": "Mengenal Backend",
+      "description": "Backend adalah tulang punggung dari sebuah aplikasi. Ada tulang dan aplikasi.&#160;Backend bekerja di belakang layar dan pengguna tidak berinteraksi langsung dengannya. Mereka hanya melihat hasil dar",
       "metadata": {
         "locked": false,
         "created": 1723216821,
-        "images": [],
-        "videos": [],
-        "updated": 1724490077,
+        "images": {},
+        "videos": {},
+        "updated": 1724490506,
         "published": true,
-        "status": ""
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {
